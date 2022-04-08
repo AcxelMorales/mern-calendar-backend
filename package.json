@@ -1,0 +1,12 @@
+{
+  "name": "mern-calendar-backend",
+  "version": "1.0.0",
+  "description": "Back End from Calendar app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Acxel Morales",
+  "license": "ISC"
+}
